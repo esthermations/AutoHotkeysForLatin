@@ -1,11 +1,9 @@
 # Convenient macron hotkeys for typing Latin
 
-This AutoHotkey script maps Alt+vowel keys to print macronised versions of those
-letters.
-
-For example, Alt+o will type ō, and Alt+Shift+o will type Ō.
-
-It will also automatically replace any sequence of a+e with æ and o+e with œ.
+Features:
+ - Macronised vowels on Alt+vowel (Alt+a produces ā, for example)
+ - Long s (ſ) on Alt+s
+ - Automatic conversion of ae into æ and oe into œ
 
 ## How to use
 
