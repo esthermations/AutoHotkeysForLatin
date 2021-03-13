@@ -13,3 +13,5 @@ Features:
 4. You should see a green "H" icon in your taskbar if it's working.
 
 Happy typing!
+
+![](https://i.imgur.com/i4GFCSF.png)
