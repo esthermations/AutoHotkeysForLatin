@@ -1,0 +1,14 @@
+Test:
+
+Start script.
+	Type oe		- shouldn't combine
+	Type ae		- should    combine
+	Type alt+s	- should print long s
+
+Press alt+z.
+	Toggle oe
+	Type oe		- should    combine
+	Toggle ae
+	Type ae		- shouldn't combine
+	Toggle alt+s
+	Type alt+s	- shouldn't print long s
